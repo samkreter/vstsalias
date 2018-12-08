@@ -1,0 +1,8 @@
+{
+    "token": "<vsts-access-token>",
+    "username": "<username>",
+    "apiVersion": "3.0",
+    "repositoryName": "<repository>",
+    "instance": "<instance>",
+    "project": "<project>"
+}
